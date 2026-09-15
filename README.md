@@ -25,7 +25,7 @@
 ## 🚀 Currently Working On
 
 - ⚛️ **BCIT COMP3013** — Front-End Web Development with React.js
-- 💻 Building a **REST API project** with C# + ASP.NET Core + PostgreSQL
+- 📊 Building a **Job Application Tracker** — adding a MongoDB backend to my job-search tool
 - 🔧 Sharpening algorithm skills on **LeetCode**
 
 ---
@@ -52,7 +52,6 @@
 `HTML` `CSS` `JavaScript`
 
 🔗 [github.com/Juhyun-Yoo0710/bcit-comp1850-career-hub](https://github.com/Juhyun-Yoo0710/bcit-comp1850-career-hub)
-
 
 ---
 
