@@ -1,37 +1,30 @@
 # Hi, I'm Juhyun Yoo 👋
 
-**Senior Software Engineer** · Vancouver, BC 🍁 · Permanent Resident
+**Senior Software Engineer** · Surrey, BC 🍁 · Permanent Resident
 
-10+ years of enterprise software development experience (Samsung SDS), now building modern cloud-ready applications in BC's tech ecosystem.
+10+ years of enterprise software development experience (Samsung SDS), now building modern web applications and refreshing my front-end skills in BC's tech ecosystem.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-`C#` `Java` `JavaScript` `HTML` `Oracle PL/SQL`
+**Languages** `C#` `Java` `JavaScript` `HTML` `Oracle PL/SQL`
 
-**Frameworks & Tools**
-`ASP.NET` `REST APIs` `XML` `JSON`
+**Frameworks & Tools** `ASP.NET` `React (learning)` `REST APIs` `XML` `JSON`
 
-**Practices**
-`Agile` `SDLC` `ITIL` `CI/CD (learning)` `Unit Testing`
+**Practices** `Agile` `SDLC` `ITIL` `CI/CD (learning)` `Unit Testing`
 
-**Cloud & Infra**
-`Microsoft Azure (AZ-900)` `AWS (learning)`
+**Cloud & Infra** `Microsoft Azure (AZ-900)` `AWS (learning)`
 
-**Databases**
-`Oracle DB` `PostgreSQL (learning)`
+**Databases** `Oracle DB` `PostgreSQL (learning)`
 
-**Version Control**
-`Git` `GitHub`
+**Version Control** `Git` `GitHub`
 
 ---
 
 ## 🚀 Currently Working On
 
-- 📚 **BCIT** — Web Design & Development (HTML, CSS, JavaScript)
-- 🤖 **Cisco Networking Academy** — AI & Data Science Pathway
+- ⚛️ **BCIT COMP3013** — Front-End Web Development with React.js
 - 💻 Building a **REST API project** with C# + ASP.NET Core + PostgreSQL
 - 🔧 Sharpening algorithm skills on **LeetCode**
 
@@ -39,19 +32,27 @@
 
 ## 💼 Featured Projects
 
-### 🔔 System Alert & Monitoring API
-> REST API service for batch job monitoring and real-time alerting — inspired by enterprise automation work at Samsung SDS.
+### 📊 Job Application Tracker *(in progress)*
+> Personal tool for tracking job applications with automated resume-to-job-posting match scoring — flags matched skills, skill gaps, transferable skills, and ATS keywords. Built while running my own BC job search.
 
-`C#` `ASP.NET Core` `PostgreSQL` `REST API` `NUnit` `GitHub Actions`
+`JavaScript` `HTML` `CSS` `MongoDB (in progress)`
 
-🔗 *[Coming soon]*
+🔗 *Coming soon*
 
-### 📋 Task Management CRUD App
-> Full-stack web app with RESTful backend and clean UI.
+### 🕹️ Hangman Game
+> Browser-based Hangman game built with vanilla JavaScript, HTML, and Sass — final project for BCIT COMP2132 (JavaScript I).
 
-`C#` `ASP.NET Core` `JavaScript` `HTML/CSS` `PostgreSQL`
+`JavaScript` `HTML` `Sass`
 
-🔗 *[Coming soon]*
+🔗 [github.com/Juhyun-Yoo0710/bcit-comp2132-hangman](https://github.com/Juhyun-Yoo0710/bcit-comp2132-hangman)
+
+### 🧭 Newcomer Career Hub
+> Static resource hub for newcomers and career-changers in Canada — built for BCIT COMP1850 (Web Development I).
+
+`HTML` `CSS` `JavaScript`
+
+🔗 [github.com/Juhyun-Yoo0710/bcit-comp1850-career-hub](https://github.com/Juhyun-Yoo0710/bcit-comp1850-career-hub)
+
 
 ---
 
@@ -69,18 +70,17 @@ Previously at **Samsung SDS** (Seoul, Korea) for 14 years — worked on large-sc
 
 ## 📜 Certifications
 
-| Cert | Issuer | Year |
-|------|--------|------|
-| AZ-900: Microsoft Azure Fundamentals | Microsoft | 2025 |
-| Data Architecture Certification | Samsung SDS | 2013 |
-| First Aid & CPR/AED Level C | CSA Std. Z1210-17 | 2025 |
+| Cert                                 | Issuer            | Year |
+| ------------------------------------ | ----------------- | ---- |
+| AZ-900: Microsoft Azure Fundamentals | Microsoft         | 2025 |
+| Data Architecture Certification      | Samsung SDS       | 2013 |
+| First Aid & CPR/AED Level C          | CSA Std. Z1210-17 | 2025 |
 
 ---
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juhyun%20Yoo-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/juhyun-yoo0710)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:juhyun.yoo0710@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juhyun%20Yoo-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/juhyun-yoo0710) [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:juhyun.yoo0710@gmail.com)
 
 ---
 
